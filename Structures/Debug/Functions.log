@@ -1,0 +1,10 @@
+﻿  collect.cpp
+  main.cpp
+C:\Users\Home\Documents\GitHub\Programming C++\Structures\commonheader.h(4,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Home\Documents\GitHub\Programming C++\Structures\commonheader.h(4,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Home\Documents\GitHub\Programming C++\Structures\commonheader.h(4,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  process.cpp
+C:\Users\Home\Documents\GitHub\Programming C++\Structures\commonheader.h(4,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\Home\Documents\GitHub\Programming C++\Structures\commonheader.h(4,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Functions.vcxproj -> C:\Users\Home\Documents\GitHub\Programming C++\Structures\Debug\Functions.exe
